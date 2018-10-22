@@ -1,5 +1,10 @@
 body
 
+div { border :10px solid blue;
+	Display: block;
+	Background-color: #333;
+	Padding: 200x, 10px, 20px, 10px;
+}
 .header {
 	background-color: #F1F1F1;
 	text-align: center;
