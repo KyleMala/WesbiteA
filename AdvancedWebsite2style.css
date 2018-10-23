@@ -63,7 +63,11 @@ div { border :5px solid grey;
 }
 
 
-
+.column {
+    float: left;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
 /* Create three unequal columns that floats next to each other */
 .columnleft {
     float: left;
