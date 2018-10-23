@@ -79,14 +79,6 @@ div { border :5px solid grey;
 }
 
 
-
-/* Create three unequal columns that floats next to each other */
-.column {
-    float: left;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
-}
-
 /* Left and right column */
 .column.side {
     width: 25%;
