@@ -63,10 +63,14 @@ div { border :5px solid grey;
 }
 
 .right {
+	width: 20%;
+	float: right;
 	background-color: #f2f0dc;
 	text-align: right
 }
 .left
+	width: 20%;
+	float: left;
 	background-color: #ddd;
 	text-align: left;
 }
