@@ -78,6 +78,7 @@ div { border :5px solid grey;
 /* Left and right column */
 .columnleft.side {
     width: 25%;
+	float: left;
 }
 
 .columnright {
@@ -88,6 +89,7 @@ div { border :5px solid grey;
 
 .columnright.side {
     width: 5%;
+	float: right;
 }
 
 /* Middle column */
