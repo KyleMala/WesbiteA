@@ -77,7 +77,7 @@ div { border :5px solid grey;
 
 /* Left and right column */
 .columnleft.side {
-    width: 50%;
+    width: 25%;
 	float: left;
 }
 
