@@ -64,20 +64,6 @@ div { border :5px solid grey;
 
 
 
-
-.right {
-	width: 20%;
-	float: right;
-	background-color: #f2f0dc;
-	text-align: right;
-}
-.left {
-	width: 60%;
-	float: left;
-	background-color: #f2f0dc;
-	text-align: left;
-}
-
 /* Create three unequal columns that floats next to each other */
 .column {
     float: left;
