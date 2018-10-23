@@ -62,4 +62,14 @@ div { border :5px solid blue;
 	 column-gap: 20px;
 }
 
+.right {
+	background-color: #f2f0dc;
+	text-align: right
+}
+.left
+	background-color: #f2f0dc;
+	text-align: left;
+}
+
+
 
