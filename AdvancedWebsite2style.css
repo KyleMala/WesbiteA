@@ -68,9 +68,10 @@ div { border :5px solid grey;
 	background-color: #f2f0dc;
 	text-align: right;
 }
-.left
+.left {
 	width: 20%;
 	float: left;
+	background-color: #f2f0dc;
 	text-align: left;
 }
 
