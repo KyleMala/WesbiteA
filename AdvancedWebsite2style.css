@@ -66,12 +66,12 @@ div { border :5px solid grey;
 	width: 20%;
 	float: right;
 	background-color: #f2f0dc;
-	text-align: right
+	text-align: right;
 }
 .left
 	width: 20%;
 	float: left;
-	background-color: #f4f1d0;
+	background-color: #f2f0dc;
 	text-align: left;
 }
 
