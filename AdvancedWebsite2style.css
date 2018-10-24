@@ -99,6 +99,7 @@ div { border :5px solid grey;
 
 .column.right {
     width: 25%;
+	height: 300px;
 }
 
 /* Clear floats after the columns */
