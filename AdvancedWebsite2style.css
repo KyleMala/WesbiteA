@@ -97,6 +97,10 @@ div { border :5px solid grey;
     width: 50%;
 }
 
+.column.right {
+    width: 25%;
+}
+
 /* Clear floats after the columns */
 .row:after {
     content: "";
