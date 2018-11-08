@@ -66,13 +66,13 @@ div { border :5px solid grey;
 .column {
     float: left;
     padding: 10px;
-    height: 400px; /* Should be removed. Only for demonstration */
+    height: 500px; /* Should be removed. Only for demonstration */
 }
 /* Create three unequal columns that floats next to each other */
 .columnleft {
     float: left;
     padding: 10px;
-    height: 400px; /* Should be removed. Only for demonstration */
+    height: 500px; /* Should be removed. Only for demonstration */
 }
 
 /* Left and right column */
@@ -84,7 +84,7 @@ div { border :5px solid grey;
 .columnright {
     float: right;
     padding: 10px;
-    height: 400px;
+    height: 500px;
 }
 
 .columnright.side {
@@ -99,7 +99,7 @@ div { border :5px solid grey;
 
 .column.right {
     width: 25%;
-	height: 400px;
+	height: 500px;
 }
 
 /* Clear floats after the columns */
